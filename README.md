@@ -36,7 +36,7 @@ them, or contact us at nimble.stats@gmail.com.
 
 Examples of customizing NIMBLE for Hidden Markov Models (HMMs)
 embedded in multi-state capture-recapture models are given in
-[*Efficient Markov chain Monte Carlo sampling for hierarchical hidden Markov models*, by D. Turek, P. de Valpine, and C. J. Paciorek (2016).  Environmental and Ecological Statistics 23:549-564.  ](https://link.springer.com/article/10.1007/s10651-016-0353-z).
+[ D. Turek, P. de Valpine, and C. J. Paciorek (2016). *Efficient Markov chain Monte Carlo sampling for hierarchical hidden Markov models*.  Environmental and Ecological Statistics 23:549-564.](https://link.springer.com/article/10.1007/s10651-016-0353-z)
 
 ## How do we compare MCMCs?
 
