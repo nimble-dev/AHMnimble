@@ -20,7 +20,7 @@ and NIMBLE's default sampler configuration.  These were run on a
 Mac with a 3.4 GHz Intel iCore 5 with OS X 10.13.4.
 
 We have attempted to make each file labeled with
-"*\_example\_nimble.R" or "*\_custom\_nimble.R" be self-contained,
+"\*\_example\_nimble.R" or "\*\_custom\_nimble.R" be self-contained,
 sourcing from other files as needed. 
 
 Some examples remain to be converted.  Please do so and contribute to
@@ -36,7 +36,7 @@ them, or contact us at nimble.stats@gmail.com.
 
 Examples of customizing NIMBLE for Hidden Markov Models (HMMs)
 embedded in multi-state capture-recapture models are given in
-[Turek et al.](https://link.springer.com/article/10.1007/s10651-016-0353-z).
+[*Efficient Markov chain Monte Carlo sampling for hierarchical hidden Markov models*, by D. Turek, P. de Valpine, and C. J. Paciorek (2016).  Environmental and Ecological Statistics 23:549-564.  ](https://link.springer.com/article/10.1007/s10651-016-0353-z).
 
 ## How do we compare MCMCs?
 
