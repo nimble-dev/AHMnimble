@@ -1,0 +1,5 @@
+#!/bin/bash
+caffeinate -i Rscript run_all.R Section_10p11p1_example_nimble.R
+caffeinate -i Rscript run_all.R Section_10p12p1_example_nimble.R
+caffeinate -i Rscript run_all.R Section_10p14_example_nimble.R
+

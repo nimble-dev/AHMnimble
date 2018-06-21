@@ -1,0 +1,3 @@
+#!/bin/bash
+caffeinate -i Rscript run_all.R Section_6p11p1_example_nimble.R
+
